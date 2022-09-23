@@ -1,0 +1,11 @@
+body {
+  background-image: linear-gradient(
+    to right,
+    rgb(190, 199, 203),
+    rgb(56, 16, 214)
+  );
+}
+
+.result {
+  background-color: aliceblue;
+}
